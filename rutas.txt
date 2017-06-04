@@ -1,0 +1,6 @@
+https://github.com/masoncj/esp32-examples/blob/master/main/main_adc.c
+
+https://esp-idf.readthedocs.io/en/latest/api-reference/peripherals/gpio.htmlhttps://esp-idf.readthedocs.io/en/latest/api-reference/peripherals/gpio.html
+
+
+https://github.com/espressif/esp-idf/blob/e45a288516ac17e5d4f3653cdbde7ed8631ee2b6/examples/peripherals/gpio/main/gpio_example_main.c
